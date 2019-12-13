@@ -1,0 +1,61 @@
+#top{
+  text-align: center;
+}
+h1{
+  color: red;
+  font-size: 60px;
+  font-family: 'Bangers', cursive;
+}
+body{
+  background: url(https://img.freepik.com/free-photo/chalkboard-blackboard-dark-wallpaper-background_28629-1125.jpg?size=626&ext=jpg);
+  background-repeat: no-repeat;
+  background-size: 2000px 3000px;
+}
+h2{
+  color: red;
+  text-align: center;
+  font-size: 38px;
+  font-family: 'Bangers', cursive;
+}
+h3{
+  color: rgb(61, 173, 224);
+  text-align: center;
+  font-size: 38px;
+  font-family: 'Special Elite', cursive; 
+}
+li{
+  color: rgb(61, 173, 224);
+  font-family: 'Special Elite', cursive;
+
+}
+h4{
+  color: red;
+  font-size: 25px;
+  font-family: 'Bangers', cursive;
+}
+h5{
+  color: red;
+  font-size: 25px;
+  font-family: 'Bangers', cursive;
+}
+h6{
+  color: red;
+  font-size: 25px;
+  font-family: 'Bangers', cursive;
+}
+p{
+  color: rgb(61, 173, 224);
+  font-family: 'Special Elite', cursive;
+
+}
+h7{
+  color: red;
+  font-size: 25px;
+  font-family: 'Bangers', cursive;
+}
+img.center{
+  display: block;
+  margin: 0 auto;
+  height: 260px;
+  width: 300px
+}
